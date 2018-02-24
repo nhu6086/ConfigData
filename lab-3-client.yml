@@ -1,1 +1,3 @@
-lucky-word: irish
+---
+spring:
+  lucky-word: irish
